@@ -26,7 +26,7 @@ github_username:  Steveybrown
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+theme: minima
 gems:
   - jekyll-feed
 exclude:
